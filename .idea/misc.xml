@@ -10,7 +10,7 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/cypress/support/index.js" />
+    <file url="file://$PROJECT_DIR$/../cypress-sandbox/cypress/support/index.js" />
   </component>
   <component name="masterDetails">
     <states>
